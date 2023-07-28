@@ -8,7 +8,7 @@
 ## Ruby on Railsを使う際はgemというパッケージを使用すると作業を効率化できる  
 ## データベースにはMySQLがよく使われる  
   
- <img src=”img/kadai3_1.png">   
+ <img src="images/kadai3_1.png">  
  ![kadai3_2](Imagekadai3_2.png)  
  ![kadai3_3](Imagekadai3_3.png)  
  ![kadai3_3](Imagekadai3_4.png)   
