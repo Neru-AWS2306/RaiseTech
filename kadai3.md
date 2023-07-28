@@ -9,9 +9,9 @@
 ## データベースにはMySQLがよく使われる  
   
  <img src="images/kadai3_1.png">  
- ![kadai3_2](Imagekadai3_2.png)  
- ![kadai3_3](Imagekadai3_3.png)  
- ![kadai3_3](Imagekadai3_4.png)   
- ![kadai3_3](Imagekadai3_5.png)  
- ![kadai3_3](Imagekadai3_6.png)  
- ![kadai3_3](Imagekadai3_7.png)
+ <img src="images/kadai3_2.png"> 
+ <img src="images/kadai3_3.png">  
+ <img src="images/kadai3_4.png">    
+ <img src="images/kadai3_5.png">   
+ <img src="images/kadai3_6.png">   
+ <img src="images/kadai3_7.png"> 
