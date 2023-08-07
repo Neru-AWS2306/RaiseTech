@@ -8,10 +8,10 @@
 ## Ruby on Railsを使う際はgemというパッケージを使用すると作業を効率化できる  
 ## データベースにはMySQLがよく使われる  
   
- <img src="images/kadai3_1.png">  
- <img src="images/kadai3_2.png"> 
- <img src="images/kadai3_3.png">  
- <img src="images/kadai3_4.png">    
- <img src="images/kadai3_5.png">   
- <img src="images/kadai3_6.png">   
- <img src="images/kadai3_7.png"> 
+ ![課題](images/kadai3_1.png)
+ ![課題](images/kadai3_2.png)
+ ![課題](images/kadai3_3.png)
+ ![課題](images/kadai3_4.png)
+ ![課題](images/kadai3_5.png)
+ ![課題](images/kadai3_6.png) 
+ ![課題](images/kadai3_7.png)
