@@ -8,7 +8,7 @@
 ## ・Ruby on Railsを使う際はgemというパッケージを使用すると作業を効率化できる  
 ## ・データベースにはMySQLがよく使われる  
   
- ![課題](images/kadai3_1.png)  
+![課題](images/kadai3_1.png)  
 APサーバーの名前とバージョンの根拠  
 ![課題](images/kadai3_2.png)  
 アプリケーション起動の根拠  
@@ -20,4 +20,5 @@ APサーバーの名前とバージョンの根拠
 Rails起動の根拠  
 ![課題](images/kadai3_6.png)  
 DBサーバーの名前とバージョンの根拠  
-![課題](images/kadai3_7.png)
+![課題](images/kadai3_7.png)  
+サーバー停止するとアクセスできない根拠
