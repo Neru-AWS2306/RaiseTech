@@ -14,9 +14,12 @@
   
 ## サブネットのエビデンス  
 ![課題](/images/kadai4_5.png)  
+![課題](/images/kadai4_8.png)  
   
 ## EC2のセキュリティグループの設定  
-![課題](/images/kadai4_6.png)   
+![課題](/images/kadai4_6.png)  
+![課題](/images/kadai4_9.png)  
   
 ## RDSのセキュリティグループの設定  
-![課題](/images/kadai4_7.png) 
+![課題](/images/kadai4_7.png)   
+![課題](/images/kadai4_10.png)  
