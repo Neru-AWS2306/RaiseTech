@@ -23,3 +23,16 @@
 ## RDSのセキュリティグループの設定  
 ![課題](/images/kadai4_7.png)   
 ![課題](/images/kadai4_10.png)  
+
+## RDSのセキュリティグループ(launch-wizard-2)の設定  
+![課題](/images/kadai4_11.png)  
+![課題](/images/kadai4_12.png)  
+![課題](/images/kadai4_12_2.png)  
+![課題](/images/kadai4_12_3.png)  
+  
+## VPCのあるサブネット  
+![課題](/images/kadai4_14.png)  
+
+## EC2のセキュリティグループ変更
+### launch-wizard-3(RDSはlaunch-wizard-2　※上記参照)
+![課題](/images/kadai4_13.png)  
