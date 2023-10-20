@@ -16,4 +16,4 @@
 
 ## EC2とRDSのセキュリティグループが違う根拠  
 ![課題](/images/kadai4_2.png)  
-![課題](/images/kadai4_8.pmg)
+![課題](/images/kadai4_8.png) 
