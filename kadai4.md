@@ -8,3 +8,10 @@
 
 ## EC2のセキュリティグループの設定
 ![課題](/images/kadai4_3.png)  
+
+## EC2にログインしたエビデンス  
+![課題](/images/kadai4_4.png)  
+
+## EC2からRDSに接続したエビデンス  
+![課題](/images/kadai4_5.png)   
+
