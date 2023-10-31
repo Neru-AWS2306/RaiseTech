@@ -13,5 +13,11 @@
 ![課題](/images/kadai4_4.png)  
 
 ## EC2からRDSに接続したエビデンス  
-![課題](/images/kadai4_5.png)   
+![課題](/images/kadai4_5.png)  
+
+## EC2の設定  
+![課題](/images/kadai4_6.png)
+
+## RDSの設定  
+![課題](/images/kadai4_7.png)
 
